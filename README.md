@@ -1,7 +1,5 @@
 # LangNeuralNetwork
-Custom neural network that learns to predicts language of a given input String
-
-The network will train on the languages selected in the testing[] array.
+Custom neural network that learns to predicts language of a given input String The network will train on the languages selected in the array 'testing[]'. Language data has been automatically romanized. LangN provides means of training a multi-layer network, as well as optimizers (momentum and RMSProp). Lang1 will train a single layer network.
 
 ## Command Documentation:
 
