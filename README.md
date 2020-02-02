@@ -1,9 +1,10 @@
-# LangNeuralNetwork
+## LangNeuralNetwork
 Custom neural network that learns to predicts language of a given input String
 
 The network will train on the languages selected in the testing[] array.
 
-Command Documentation:
+#Command Documentation:
+
 train #: trains the neural network for given number of iterations
 
 test: feeds given string into neural network and outputs values
