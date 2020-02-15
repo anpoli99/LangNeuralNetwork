@@ -5,7 +5,10 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
-
+/*
+Supports multiple layers-each number in n_neurons[] is the number of neurons in that layer.
+Uses RMSProp and momentum optimizers
+*/
 public class LangN{
 	static double step = .001;
 	static final int[] n_neurons = {10};
