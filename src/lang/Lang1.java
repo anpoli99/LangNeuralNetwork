@@ -5,7 +5,9 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
-
+/*
+Single layer implementation-no optimizers
+*/
 public class Lang1{
 	static double step = .005;
 	static final int n_neurons = 20; //number of neurons in hidden layer
